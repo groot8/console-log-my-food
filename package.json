@@ -1,0 +1,9 @@
+{
+  "name": "console-log-my-food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/groot8/console-log-my-food.git",
+  "author": "groot8 nader.yasser.93@gmail.com",
+  "license": "MIT",
+  "private": false
+}
